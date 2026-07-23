@@ -426,34 +426,10 @@
         </div>
 
         <div class="timeline-item reveal">
-          <time>2023</time>
-          <div>
-            <h3>Started the Artificial Intelligence degree at PNU</h3>
-            <p>I moved to Busan and began my BSc in Artificial Intelligence at Pusan National University.</p>
-          </div>
-        </div>
-
-        <div class="timeline-item reveal">
-          <time>2024</time>
-          <div>
-            <h3>DOIT productivity web app</h3>
-            <p>I built DOIT, an AI productivity web app using the Claude API and Firebase.</p>
-          </div>
-        </div>
-
-        <div class="timeline-item reveal">
-          <time>2025</time>
-          <div>
-            <h3>Gesture-Controlled Smart Glove</h3>
-            <p>I built a low-cost wearable prototype using finger bending and hand orientation for cursor control and air-drawing experiments.</p>
-          </div>
-        </div>
-
-        <div class="timeline-item reveal">
           <time>2026</time>
           <div>
             <h3>NLP, external memory, and embedded systems</h3>
-            <p>I worked on NLP, local language-model behavior, external-memory evaluation, and the research architecture for Project RAY.</p>
+            <p>I worked on NLP, local language-model behavior, external-memory evaluation, a wearable input prototype, and the research architecture for Project RAY.</p>
           </div>
         </div>
 
